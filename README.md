@@ -1,4 +1,3 @@
-# AI-desk-guide
 # 🦾 AI Desk Guide
 
 **AI Desk Guide**는 사용자의 책상 이미지를 분석하여 인체공학적 피드백을 제공하는 AI 기반 데스크테리어 솔루션입니다.  
