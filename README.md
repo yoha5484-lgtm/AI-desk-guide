@@ -43,7 +43,7 @@ YOLOv8 객체 인식과 GPT 분석을 결합해 사용자의 자세와 환경을
 
 | 업로드 이미지 | 분석 결과 |
 |----------------|-------------|
-| ![input](images/sample_desk.jpg) | ![output](images/sample_result.jpg) |
+| ![input](images/sample_input.jpg) | ![output](images/sample_output.png) |
 
 ---
 
